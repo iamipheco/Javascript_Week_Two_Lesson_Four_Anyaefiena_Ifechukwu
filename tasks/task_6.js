@@ -1,3 +1,7 @@
+// Use arrow functions
+// Rewrite the greet function as an arrow function.
+// Test the arrow function by calling it with different names.
+
 // Arrow function for greet
 const greet = (name = 'Guest') => {
   console.log(`Hello, ${name}! Nice to meet you.`)
